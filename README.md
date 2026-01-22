@@ -3,7 +3,7 @@
 
 A Full-Stack AI Chatbot that detects the user's emotions and responds empathetically. 
 
-Built with **FastAPI** (Backend), **Streamlit** (Frontend), and **PyTorch** based **Hugging Face Transformers** (NLP Model).
+Built with **FastAPI** (Backend), **Streamlit** (Frontend), and **PyTorch**-based **Hugging Face Transformers** (NLP Model).
 
 ## Features
 - **Emotion Detection:** Uses a pre-trained RoBERTa model (`j-hartmann/emotion-english-distilroberta-base`) to classify text into emotions like Joy, Anger, Sadness, Fear, Surprise, and Neutral.
